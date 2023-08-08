@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.postit.api
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, aws-lambda, aws-lambda-custom-runtime, aws-lambda-events-serde, aws-lambda-handler-default, github-workflow-ci, graalvm, gradle, http-client, http-client-test, jdbc-hikari, kotest, kotlin, ksp, logback, micronaut-aot, micronaut-build, postgres, properties, readme, serialization-jackson, shade, test-resources, x86]
